@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "webhooked BANNER"
+  "webhooked BANNER - Update"
 end
